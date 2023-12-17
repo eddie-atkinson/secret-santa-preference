@@ -1,1 +1,1 @@
-Deployed [here](https://eddie-atkinson.github.io/secret-santa-preference/)
+Deployed [here](https://secret-santa-preference.pages.dev/)
